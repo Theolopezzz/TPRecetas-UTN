@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "titulo": "Pasta Carbonara",
+    "descripcion": "Receta clásica italiana de pasta con salsa cremosa de huevo y panceta",
+    "imagen": "/imgs/PastaCarbonara.jpg",
+    "tiempoPreparacion": "30 minutos",
+    "dificultad": "Media",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "400", "unidad": "g", "nombre": "Spaghetti" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Panceta o tocino" },
+      { "cantidad": "4", "unidad": "unidades", "nombre": "Huevos" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Queso parmesano rallado" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Pimienta negra" },
+      { "cantidad": "1", "unidad": "pizca", "nombre": "Sal" }
+    ],
+    "pasos": [
+      "Cocinar la pasta en agua hirviendo con sal hasta que esté al dente",
+      "Mientras tanto, cortar la panceta en cubos pequeños y dorarla en una sartén",
+      "Batir los huevos con el queso parmesano rallado y pimienta",
+      "Escurrir la pasta reservando un poco del agua de cocción",
+      "Mezclar la pasta caliente con la panceta fuera del fuego",
+      "Agregar la mezcla de huevo y queso, mezclando rápidamente",
+      "Si es necesario, agregar un poco del agua de cocción para crear una salsa cremosa",
+      "Servir inmediatamente con más queso parmesano y pimienta"
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 2,
+    "titulo": "Ensalada César",
+    "descripcion": "Ensalada fresca con lechuga romana, crutones caseros y aderezo césar",
+    "imagen": "/imgs/EnsaladaCesar.avif",
+    "tiempoPreparacion": "20 minutos",
+    "dificultad": "Fácil",
+    "porciones": 2,
+    "ingredientes": [
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Lechuga romana grande" },
+      { "cantidad": "100", "unidad": "g", "nombre": "Pechuga de pollo" },
+      { "cantidad": "50", "unidad": "g", "nombre": "Queso parmesano" },
+      { "cantidad": "2", "unidad": "tazas", "nombre": "Crutones" },
+      { "cantidad": "4", "unidad": "cucharadas", "nombre": "Aderezo césar" }
+    ],
+    "pasos": [
+      "Lavar y secar la lechuga romana",
+      "Cortar la lechuga en trozos medianos",
+      "Cocinar la pechuga de pollo a la plancha y cortarla en tiras",
+      "En un bowl grande, mezclar la lechuga con el aderezo",
+      "Agregar el pollo, crutones y queso parmesano",
+      "Mezclar bien y servir inmediatamente"
+    ],
+    "categoria": "Ensaladas"
+  },
+  {
+    "id": 3,
+    "titulo": "Hamburguesa Casera",
+    "descripcion": "Hamburguesa jugosa hecha en casa con carne molida y vegetales frescos",
+    "imagen": "/imgs/HamburguesaCasera.avif",
+    "tiempoPreparacion": "45 minutos",
+    "dificultad": "Media",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "500", "unidad": "g", "nombre": "Carne molida" },
+      { "cantidad": "4", "unidad": "unidades", "nombre": "Pan para hamburguesa" },
+      { "cantidad": "2", "unidad": "unidades", "nombre": "Tomates" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla" },
+      { "cantidad": "4", "unidad": "unidades", "nombre": "Hojas de lechuga" },
+      { "cantidad": "1", "unidad": "cdta", "nombre": "Salsa de tomate" }
+    ],
+    "pasos": [
+      "Formar las hamburguesas con la carne molida",
+      "Sellar las hamburguesas en una parrilla caliente",
+      "Tostar los panes ligeramente",
+      "Armar la hamburguesa con todos los ingredientes",
+      "Servir caliente con papas fritas"
+    ],
+    "categoria": "Platos Principales"
+  },
+  {
+    "id": 4,
+    "titulo": "Tarta de Manzana",
+    "descripcion": "Postre clásico americano con capa de manzanas y masa crujiente",
+    "imagen": "/imgs/TartaManzana.jpg",
+    "tiempoPreparacion": "1 hora",
+    "dificultad": "Difícil",
+    "porciones": 8,
+    "ingredientes": [
+      { "cantidad": "6", "unidad": "unidades", "nombre": "Manzanas" },
+      { "cantidad": "200", "unidad": "g", "nombre": "Azúcar" },
+      { "cantidad": "1", "unidad": "cdta", "nombre": "Canela" },
+      { "cantidad": "250", "unidad": "g", "nombre": "Harina" },
+      { "cantidad": "125", "unidad": "g", "nombre": "Mantequilla" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Huevo" }
+    ],
+    "pasos": [
+      "Pelar y cortar las manzanas en rodajas",
+      "Mezclar con azúcar y canela",
+      "Preparar la masa con harina, mantequilla y huevo",
+      "Forrar un molde con la masa",
+      "Colocar las manzanas encima",
+      "Hornear a 180°C durante 45 minutos"
+    ],
+    "categoria": "Postres"
+  },
+  {
+    "id": 5,
+    "titulo": "Sopa de Tomate",
+    "descripcion": "Sopa cremosa y reconfortante ideal para días fríos",
+    "imagen": "/imgs/SopaTomate.webp",
+    "tiempoPreparacion": "35 minutos",
+    "dificultad": "Fácil",
+    "porciones": 4,
+    "ingredientes": [
+      { "cantidad": "1 kg", "unidad": "", "nombre": "Tomates maduros" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Cebolla" },
+      { "cantidad": "2", "unidad": "dientes", "nombre": "Ajo" },
+      { "cantidad": "500 ml", "unidad": "", "nombre": "Caldo de verduras" },
+      { "cantidad": "200 ml", "unidad": "", "nombre": "Crema de leche" },
+      { "cantidad": "1", "unidad": "cdta", "nombre": "Aceite de oliva" }
+    ],
+    "pasos": [
+      "Cocer los tomates, cebolla y ajo hasta ablandar",
+      "Licuar la mezcla hasta obtener una textura suave",
+      "Calentar en una olla con caldo",
+      "Agregar la crema de leche",
+      "Sazonar y servir caliente"
+    ],
+    "categoria": "Sopas"
+  },
+  {
+    "id": 6,
+    "titulo": "Smoothie de Frutilla",
+    "descripcion": "Bebida refrescante y saludable ideal para el desayuno",
+    "imagen": "/imgs/SmoothieFrutilla.webp",
+    "tiempoPreparacion": "10 minutos",
+    "dificultad": "Fácil",
+    "porciones": 2,
+    "ingredientes": [
+      { "cantidad": "300", "unidad": "g", "nombre": "Frutillas frescas" },
+      { "cantidad": "1", "unidad": "unidad", "nombre": "Banana" },
+      { "cantidad": "200 ml", "unidad": "", "nombre": "Leche" },
+      { "cantidad": "1", "unidad": "cdta", "nombre": "Miel" },
+      { "cantidad": "1", "unidad": "cdta", "nombre": "Yogur natural" }
+    ],
+    "pasos": [
+      "Lavar y cortar las frutillas",
+      "Licuar todos los ingredientes hasta obtener una mezcla homogénea",
+      "Servir frío con hielo si se desea"
+    ],
+    "categoria": "Bebidas"
+  }
+]
