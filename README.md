@@ -30,6 +30,7 @@ a
    http://localhost:5173
 
 Estructura del proyecto
+   ```bash
      src/
    ├── components/
    │   ├── recetas/
@@ -50,7 +51,7 @@ Estructura del proyecto
    │   └── imgs/                       # Imágenes estáticas cargadas desde el servidor
    ├── App.jsx                         # Configuración de rutas y proveedor de contexto
    └── main.jsx                        # Punto de entrada de la aplicación
-
+   ```
 
 
 
@@ -60,6 +61,7 @@ Funcionalidades
 
 Tarjetas responsivas con imagen, título, tiempo, dificultad y porciones
 Botón “Ver Receta” que redirige al detalle
+
 ✅ Detalle de receta
 
 Imagen destacada en tamaño grande
@@ -67,17 +69,20 @@ Descripción completa
 Lista de ingredientes con cantidad y unidad
 Pasos numerados de preparación
 Botón “Volver al Listado”
+
 ✅ Navegación
 
 Barra de navegación superior con logo
 Rutas: /, /recetas, /recetas/:id
 Manejo de rutas dinámicas con useParams
+
 ✅ Diseño y UX
 
 Responsive en móvil, tablet y escritorio
 Paleta de colores de Material-UI con chips de dificultad (verde/amarillo/rojo)
 Espaciado consistente y tipografía profesional
 Efecto hover en tarjetas para mejorar la interacción
+
 ✅ Tecnologías implementadas
 
 ✅ Context API para manejo global de recetas
@@ -91,7 +96,6 @@ Screenshot de la pagina:
 <img width="1865" height="999" alt="image" src="https://github.com/user-attachments/assets/f6196ec3-5a67-4e98-a427-748115a4cb91" />
 
  
-
 Autor
 Theo Lopez Lovatto
 📧 lopeztheo565@gmail.com
