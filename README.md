@@ -14,7 +14,7 @@ Aplicación web interactiva de recetas de cocina desarrollada con **React 19**, 
 - **JSON local** – Almacenamiento de datos de recetas sin backend
 
 ## Instalación
-a
+
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/tp-recetas.git
