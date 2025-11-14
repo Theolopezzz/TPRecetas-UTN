@@ -14,7 +14,7 @@ Aplicación web interactiva de recetas de cocina desarrollada con **React 19**, 
 - **JSON local** – Almacenamiento de datos de recetas sin backend
 
 ## Instalación
-
+a
 1. Clona este repositorio:
    ```bash
    git clone https://github.com/tu-usuario/tp-recetas.git
@@ -29,31 +29,33 @@ Aplicación web interactiva de recetas de cocina desarrollada con **React 19**, 
    ```bash
    http://localhost:5173
 
-Estructura del proyecto:
-   ```bash
-   src/
-├── components/
-│   ├── recetas/
-│   │   ├── RecetaCard.jsx          # Tarjeta de receta en el listado
-│   │   ├── RecetasList.jsx         # Lista de todas las recetas
-│   │   ├── RecetaDetalle.jsx       # Vista detallada de una receta
-│   │   └── IngredientesList.jsx    # Componente reutilizable para ingredientes
-│   └── layout/
-│       └── Navbar.jsx              # Barra de navegación fija
-├── contexts/
-│   └── RecetasContext.jsx          # Contexto global para cargar y gestionar recetas
-├── data/
-│   └── recetas.json                # Archivo con los datos de las 6 recetas
-├── pages/
-│   ├── RecetasListPage.jsx         # Página principal de listado
-│   └── RecetaDetallePage.jsx       # Página de detalle con parámetro dinámico
-├── public/
-│   └── imgs/                       # Imágenes estáticas cargadas desde el servidor
-├── App.jsx                         # Configuración de rutas y proveedor de contexto
-└── main.jsx                        # Punto de entrada de la aplicación 
+Estructura del proyecto
+     src/
+   ├── components/
+   │   ├── recetas/
+   │   │   ├── RecetaCard.jsx          # Tarjeta de receta en el listado
+   │   │   ├── RecetasList.jsx         # Lista de todas las recetas
+   │   │   ├── RecetaDetalle.jsx       # Vista detallada de una receta
+   │   │   └── IngredientesList.jsx    # Componente reutilizable para ingredientes
+   │   └── layout/
+   │       └── Navbar.jsx              # Barra de navegación fija
+   ├── contexts/
+   │   └── RecetasContext.jsx          # Contexto global para cargar y gestionar recetas
+   ├── data/
+   │   └── recetas.json                # Archivo con los datos de las 6 recetas
+   ├── pages/
+   │   ├── RecetasListPage.jsx         # Página principal de listado
+   │   └── RecetaDetallePage.jsx       # Página de detalle con parámetro dinámico
+   ├── public/
+   │   └── imgs/                       # Imágenes estáticas cargadas desde el servidor
+   ├── App.jsx                         # Configuración de rutas y proveedor de contexto
+   └── main.jsx                        # Punto de entrada de la aplicación
+
+
 
 
 Funcionalidades
+
 ✅ Listado de recetas
 
 Tarjetas responsivas con imagen, título, tiempo, dificultad y porciones
@@ -85,6 +87,9 @@ Efecto hover en tarjetas para mejorar la interacción
 ✅ Componentes reutilizables y estructura organizada
 
 Screenshot de la pagina:
+
+<img width="1865" height="999" alt="image" src="https://github.com/user-attachments/assets/f6196ec3-5a67-4e98-a427-748115a4cb91" />
+
  
 
 Autor
